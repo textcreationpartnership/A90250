@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the supream authority of England, the representors of the people in Parliament assembled; the humble petition of Richard Overton, late prisoner in Newgate by the House of Lords, in behalf of himself and other Commoners that have suffered under their prerogative jurisdiction.</title>
+            <author>Overton, Richard, fl. 1646.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90250</idno>
+            <idno type="STC">Wing O636</idno>
+            <idno type="STC">Thomason E546_1</idno>
+            <idno type="STC">ESTC R206080</idno>
+            <idno type="EEBO-CITATION">99865268</idno>
+            <idno type="PROQUEST">99865268</idno>
+            <idno type="VID">117507</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90250)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117507)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E546[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the supream authority of England, the representors of the people in Parliament assembled; the humble petition of Richard Overton, late prisoner in Newgate by the House of Lords, in behalf of himself and other Commoners that have suffered under their prerogative jurisdiction.</title>
+                  <author>Overton, Richard, fl. 1646.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March. 3 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Overton, Richard, fl. 1646 --  Imprisonment --  Early works to 1800.</term>
+               <term>Detention of persons --  England --  Early works to 1800.</term>
+               <term>Civil rights --  England --  Sources --  Early works to 1800.</term>
+               <term>Levellers --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117507:1"/>
+            <p>
+               <pb facs="tcp:117507:1" rendition="simple:additions"/> TO THE Supream Authority OF ENGLAND, THE REPRESENTORS OF THE PEOPLE in PARLIAMENT aſſembled; THE Humble Petition OF <hi>Richard Overton,</hi> late Priſoner in Newgate by the Houſe of Lords, in behalf of himſelf and other Commoners that have ſuffered under their <hi>Prerogative Juriſdiction.</hi>
+            </p>
+            <p>London, Printed in the year, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:117507:2"/>
+            <pb n="3" facs="tcp:117507:2"/>
+            <head>To the ſupream Authority of Eng<g ref="char:EOLhyphen"/>land, the Repreſentors of the People in Parliament aſſembled;</head>
+            <head type="sub">The humble Petition of <hi>Richard O<g ref="char:EOLhyphen"/>verton,</hi> late Priſoner in Newgate by the Houſe of Lords, in behalf of himſelf and other Commoners, &amp;c.</head>
+            <opener>Sheweth,</opener>
+            <p>THat whileſt the <hi>Peoples Soveraignty,</hi> in their Parlia<g ref="char:EOLhyphen"/>ments, was held captive under the <hi>Norman Preorgative</hi> of the <hi>King and Lords,</hi> your Petitioner expected no right or freedom in any wiſe to this Nation; and in the ſince thereof hath long groaned under the weight of his ſufferings, counting it bat as water ſpilt upon the ground for the Aſſerters of the Peoples Authority (bow ſuffering ſoever) to make any Addreſs or Petition to this Houſe, for any caſe or relief, during the <hi>Negative Interpoſition</hi> of that deſtructive Intereſt.</p>
+            <p>But your late Proceedings in taking off the King, (the ſu<g ref="char:EOLhyphen"/>preameſt peece of Juſtice that ever was in <hi>England),</hi> your re<g ref="char:EOLhyphen"/>jection of the Houſe of Lords, your vindication of the ſupream Authority of the Nation, declaring and avowing it to be ori<g ref="char:EOLhyphen"/>ginally (as of right it is) in the People, and legally in their Re<g ref="char:EOLhyphen"/>preſentative, clearing the ſame from all pretences of a Nega<g ref="char:EOLhyphen"/>tive Voyce, doth animate your Petitioner with lively hopes, that now at laſt after all the blood, the ſighs and tears of the people the horrid treacheries, defections, and revokings a<g ref="char:EOLhyphen"/>mongſt your ſelves, we ſhall yet finde a <hi>Sanctuary of Refugt</hi> in this Houſe, to ſave and deliver us from our oppreſſions, and give us Juſtice and Right upon our oppreſſors.</p>
+            <p>
+               <pb n="4" facs="tcp:117507:3"/> Many of us (even of the <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>t affected to the Common-wealth) have formerly with unceſſant importunity cryed out and complained unto this Houſe againſt the Oppreſſions of the Land, praying for Redreſs, but we have been meniced, abu<g ref="char:EOLhyphen"/>ſed, impriſoned, our Petitions burnt by the hand of the com<g ref="char:EOLhyphen"/>mon hangman, although the Votes and Orders to that purpoſe more deſerved the ſame; and all our juſt Aſſertions of the ſupream Authority of the Nation, and Endeavors after Founda<g ref="char:EOLhyphen"/>tions of common Right, (as is evident to the whole world) voted <hi>treaſonable and ſeditious,</hi> being branded for the vileſt of men, bearing the reproach of Levellers, Jeſuits, Hereticks, Sectaries, Deſpiſers of Government, Contenders for nothing but Anarchy and Confuſion.</p>
+            <p>But now, Right Honorable, you being in a great meaſure purged of a trayterous Faction from within your ſelves, we look for better things at your hands, free admitrance and ac<g ref="char:EOLhyphen"/>ceſs with our Complaints, and them not to be ſlighted, or our perſons impriſoned or abuſed for the ſame; for we know none hath more faithfully aſſerted your Authority, and the Freedom of the People, then we; and that you now ſtand in the ſtrength of thoſe righteous principles (more then in the ſtrength of an Army) which we (enduring the ſhock of all changes) have held forth unto the people.</p>
+            <p>Hence your Petitioner is imboldned humbly to deſire exem<g ref="char:EOLhyphen"/>plary &amp; impartial Juſtice from this Houſe upon the E. of <hi>Man<g ref="char:EOLhyphen"/>cheſter,</hi> and the reſt of that late prerogative Order of Lords, for their treaſonable, exorbitant practices over and againſt the com<g ref="char:EOLhyphen"/>mon Rights of the people during their late Seſſion, with ample and full Repairation out of their Eſtates unto all good people of England, that have illegally contrary to the common Inte<g ref="char:EOLhyphen"/>reſt of the Nation ſuffered under their uſurped Power, hoping that you will not ſuffer our Laws, our Rights, our Lives, Liber<g ref="char:EOLhyphen"/>ties and Eſtates, by them to be trod under-foot; our houſes to be plundered, our wifes, and our ſervants to be impriſoned, our children expoſed to the wide world, and our ſelves to be toſs'd from Goal unto Goal, lay moſt unreaſonable fines upon us, ten times beyond our eſtates, disfranchiſe us from all Right in the Common-wealth, damn us to perpetual impriſonment, <pb n="5" facs="tcp:117507:3"/> throw us into noiſom dungeons, tetter us in irons, drag us like dead dogs through the dirt and mire of the ſtreet, deprive us of the benefit of pen, ink and paper, deny us the comfort and vi<g ref="char:EOLhyphen"/>ſitation of our friends, and not ſuffer ſo much as our wifes or ſervants to be admitted unto us, to bring victuals or other ne<g ref="char:EOLhyphen"/>ceſſaries, and not allow us bread, but leave us to mercileſs fa<g ref="char:EOLhyphen"/>mine, execute their cruel Orders upon us in a warlike manner, beſet our houſes with Muſquetteers, burſt open our doors, emer the ſame with drawn Swords, and Piſtols ready cockd, threatn<g ref="char:EOLhyphen"/>ing death to him that oppoſe, and that in a place under civil Go<g ref="char:EOLhyphen"/>vernment, which in the Bill of Attainder againſt the Earl of <hi>Strafford</hi> was adjudged a levying of War againſt the Kings Majeſty and his leige people of <hi>Ireland;</hi> break open our locks, our trunks, cheſts, desks, &amp;c. Raſle, rob, ſteal, and carry away what they pleaſe; impoſe oaths upon ſervants to betray their Maſters, examine the free People of this Nation upon Star-Chamber, High Commiſſion, Interrogatories, to enſuare and deſtroy themſelves and neereſt relations, ſtop the proceedings at Law by their immediate Orders, diſ-inherit whom they pleaſe, conſpire and confederate in the treaſonable deſignes of the late King, aſſert themſelves the moſt ſupream Court of Judicature, above the Parliament and People; introduce and ſet up an abſolute Arbitrrry Government amongſt themſelves, contrary to the fundamental Laws of this Common-wealth, and cruſh and deſtroy all that ſubmit not thereunto; Acts and Crucities for which the ſaid Earl of <hi>Strafford</hi> and the Biſhop of <hi>Canterbury</hi> &amp;c, were adjudged and attainted of high Trea<g ref="char:EOLhyphen"/>ſon, forfeited their Heads, their Goods, Chattels, Lands, Te<g ref="char:EOLhyphen"/>nements, Heredaments and Freeholds; and ſuch as hath form<g ref="char:EOLhyphen"/>erly been by this Houſe (in your Petition and Ramonſt. to the King <hi>Decemb.</hi> 1. 1641.) declared to be more the proper iſſues of Turks, Pagans, Tyrants, and men without any knowledg of God, then of thoſe that have the leaſt ſpark of Chriſtianity. Honor or Juſtice in their breſts; and which, in the caſe of Lieut. Col. <hi>John Lilburn</hi> againſt the Biſhops, you voted not only illegal, and againſt the Liberty of the Subject, but alſo to be bloody, wicked, cruel, barbarous and tyrannical, and voted him 3000 l. repairation for the ſame.</p>
+            <p>
+               <pb n="6" facs="tcp:117507:4"/> And your Petitioner offereth upon the forfeiture of his <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to make good, in behalf of the Comoners of <hi>England,</hi> and of himſelf, the ſaid Charge of Treaſons, Oppreſſions and Cruelties againſt them, and hopeth, that you cannot in reaſon and con<g ref="char:EOLhyphen"/>ſcience hear and behold the ſame, and not do us right upon the Tyrants and Traytors themſelves. He further hopeth, that you are ſo ſenſible of your own future preſervation, that for your own ſakes, if not for ours, you will expire your Seſſion in ho<g ref="char:EOLhyphen"/>nor and renown with the people, which will not be but is their relief; eaſe our afflictions, and ſtate us in perfect free<g ref="char:EOLhyphen"/>dom, and you wil be ſafe, otherwiſe you have but left us a Preſi<g ref="char:EOLhyphen"/>dent of an High Court for our next Repreſentative to call you to an account (but in a juſter maner allowing you your Juries &amp;c.) which you ſhall never be able to prevent, for your Seſſion muſt have an end: If you do us not right, we ſhall never ceaſe, if God prolong our days, till, with the King, you have taſted the ſtroke of like impartial Juſtice, according to your demerits; and amongſt other things we ſhall not be ſatisfied without juſt recompence upon the <hi>Lords,</hi> and ſatisfaction, according to Law, for our ſeveral ſufferings and abuſes under them. It avayleth not to change their Prerogative Seſſion into a monſterous Councel of State, to ſhelter them from Juſtice. It is not ex<g ref="char:EOLhyphen"/>pected, that the two pernicious Intereſts of Lords and Lawyers (the Vermine and Caterpillars of the Common-wealth) ſhould be diſguiſed in new robes, from the preſent diſcerning of the people, by inſenſible tranſmutation, into the ſpecious Garb of a Councel of State, under new forms and figures to pro<g ref="char:EOLhyphen"/>long our miſeries; for may we look for grapes of thorns, or figs of thiſtles? Can we expect Freedom from the Maſters of Oppreſſion? You may as well Intereſt the Lord Biſhops thereunto; for 'tis not the change of Tyranny from old names and forms into new that will ſatisfie.</p>
+            <p>If you do not mean to right and repair us, but let them ſcape unpuniſhed, your own Votes and Actions againſt them will be as a thouſand witneſſes on our ſide, for elſe what meaneth your period to that Court? It is equally juſt to repair the oppreſſed, as to remove the oppreſſor from his place; to throw down and not repair, would be a ſmall preſident of honor to this <pb n="78" facs="tcp:117507:4"/> houſe, laſtend of terron for the name at would be an encourage<g ref="char:EOLhyphen"/>ment to ſuch Arbitrary ſpirits to be as exorbitant as theſe, for no puniſhment, no fear. Your Petitioner therefore humbly prayeth, that Juſtice and Right may be done upon them, that you will not deny is nor deter it is is but the benefit of the great <hi>Charter of England</hi> he deſueth, and what you have often
+<note place="margin">Col. of Dec pag. 264. 336. 382. 50<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. col. of De<g ref="char:EOLhyphen"/>clar. page. 81 172. 262. 266. 267 340. Coll. De<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. 666. 673.</note> before God and the world ſworn to do, and in divers of your <hi>Declarations</hi> declared to be your duty without any private aimes, perſonal reſpects or paſſions whatſoever, to do Juſtice and Right, and ſecure the perſons Eſtates and Liberties of all that joyned with you, imprecating the Judgments of Heaven to fall upon you, when you declined the ſame: Remember the Kings Imprecations, and the vengdance that fell upon him; and ſlight not the ſuit of your Petitioner, though he be mean and deſpicible in the eye of the world.</p>
+            <p>Thus then (Right Honorable) in his own behalf he humbly deſires you would be pleaſed to conſider, that after his oppo<g ref="char:EOLhyphen"/>ſition of Epiſcopacy, High Commiſſion, Star-chamber, Scoth-Presbytery, &amp;c. and deep ſufferance for the ſame, he became a witneſs againſt this Prerogative Seſſion of Lords, and for the ſame, without any legal ſummons, Indictment, or other due proceſe at Law, preceding, contrary to the great Charter, and other the good Laws and Statutes of the Realm. <hi>[Mag. Cart. c. 29. l. Ed. 3. c. 9. 25. Ed. 3. c. 4. 28. Ed. 3. c. 3. 42. Ed. 3. c. 3. 25. Hen. 8. c. 14. 1. Eliz. c. 1. Petstion of Right, 2, Caroli. Stat. for aboliſhing the Star-Chamber.]</hi> Had his houſe ſuddenly ſurrounded with Muskerreets, taken in his bed with their ſwords drawn, threatned to be ſhot, fun through, baſely and barbarouſly drag'd through the dirt and mire, beat, abuſed, and vilified, endured a moſt tedious and cruel impriſonment for the ſpace of 12 moneths in the Goal of <hi>Nemgate,</hi> laid in double irons on the common ſide amongſt the Theives. Mur<g ref="char:EOLhyphen"/>derers and Felons, his wife at the ſame time thrown into Bridewell, his brother into <hi>Maiden-lane</hi> priſon, (who then depended upon his charge) both continuing in that durance the ſpace of eight moneths, his houſe riſled and plundered ſe<g ref="char:EOLhyphen"/>veral times, his three ſmall children left go the mercy of the ſtreets beſides other inhumane abuſes and ſufferings, which he
+<pb n="8" facs="tcp:117507:5"/> here omitteth, all executed upon him and his, by ſeveral tyrann<g ref="char:EOLhyphen"/> nical Orders of that Prerogative Court, (whereof the Earl of <hi>Mancheſter</hi> was then Speaker,) to his utter ruine and beggerly <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> being, thereby reduced to extream want and miſery, and for <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> other cauſe, but for his juſt Vindication of the ſupream Autho<g ref="char:EOLhyphen"/>rity of this Houſe, his open defiance and reſiſtance of their u<g ref="char:EOLhyphen"/>ſurped Juriſdiction, Writing, Printing and Publiſhing Pa<g ref="char:EOLhyphen"/>pers to that end, refuſing to anſwer to their <hi>High-Commiſſion, Interrogatories,</hi> and the like; all which your Petitioner by the juſt Laws and Freedoms of this Nation was allowed, and as a true Engliſhman obliged to do, and yet notwithſtanding your Petitioner could never gain any conſideration or recompence for himſelf, or any Right or Juſtice upon thoſe deſtroyers of the people, being ſtill born down with their might, and trod under their mercileſs feet; he hath petitioned and apealed formerly to this Houſe againſt their exorbitant crueleled upon him, and had his Caſe with Leiu: Col. <hi>John Lilburns,</hi> and M. <hi>Larners</hi> refer'd to a Committee for conſideration of the Commoners Liberties, where Col. <hi>Henry Martin</hi> had the Chair; and our ſufferings were there determined and found upon due eximination and proof to be illegal and unjuſt, de<g ref="char:EOLhyphen"/>ſerving Repetation; but hitherto none of as have taſted either Right or Repetation at all from this Houſe, whereby your Pe<g ref="char:EOLhyphen"/>titioner, with his charge, are even ready to periſh through want.</p>
+            <p>
+               <hi>Be pleaſed therefore to reaſſume the Cauſe of your Petitioner, and other the like ſufferers, into your timely and ſerious Conſider<g ref="char:EOLhyphen"/>ation, forthwith to reſign up thoſe impeached Delinquents, as well as other trayterous Lords, to tryal, (ſaving in a more juſt &amp; legal maner then the preſent Proceedings of this High Arbitrary Court, exalted above all Law, Right and Freedom of the People, it being both Judg, Jury and Proſecutor, over-ruling all liberty of exception of Tryers, &amp;c.) And your Petitioner (in this extra<g ref="char:EOLhyphen"/>ordinary caſe, no other way of remedy being left) humbly defireth your aſſigument unto him of ſuch Repairations as for his ſuffir<g ref="char:EOLhyphen"/>ings and juſt demerit of ſo publike a cauſe you ſhall, in Iuſtice and Reaſon, judg meet.</hi>
+            </p>
+            <closer>And your Petitioner ſhall ever pray, &amp;c.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
